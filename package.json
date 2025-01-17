@@ -27,7 +27,7 @@
         "figlet": "^1.8.0",
         "file-type": "20.0.0",
         "fluent-ffmpeg": "^2.1.2",
-        "form-data": "^4.0.0",
+        "form-data": "^4.0.1",
         "fs-extra": "^11.1.1",
         "genshin": "^1.2.4",
         "google-it": "^1.6.4",
